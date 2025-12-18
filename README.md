@@ -27,3 +27,10 @@ Given candidate activities (study, exercise, rest, movie, etc.), it evaluates po
 - (optional) jupyter
 
 ## 4) Project Structure
+
+## 5) How to Run
+
+```bash
+pip install -r requirements.txt
+python src/simulate.py
+
